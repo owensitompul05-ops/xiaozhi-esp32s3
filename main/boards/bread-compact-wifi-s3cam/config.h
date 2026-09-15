@@ -59,7 +59,7 @@
 #define DISPLAY_CLK_PIN       GPIO_NUM_19
 #define DISPLAY_DC_PIN        GPIO_NUM_47
 #define DISPLAY_RST_PIN       GPIO_NUM_21
-#define DISPLAY_CS_PIN        GPIO_NUM_45
+#define DISPLAY_CS_PIN        GPIO_NUM_NC
 
 
 #ifdef CONFIG_LCD_ST7789_240X320
